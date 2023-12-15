@@ -8,7 +8,5 @@ By following the steps below, you will know how to use this package.
 2. Second, download 2 folders (demoDATA and demoEPest) and 1 .R file (demo.r) into the same directory.
 3. Then, you can just source demo.r to see what will happen. Have fun! 
 
-I will continue to maintain this project. Looking forward to your suggestions.
-
-sch14159@ruc.edu.cn
+I will continue to maintain this project. Looking forward to your suggestions!
 
